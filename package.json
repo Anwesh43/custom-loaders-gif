@@ -1,7 +1,7 @@
 {
-  "name": "custom-loaders",
+  "name": "custom-loaders-gif",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs api to create amazing gif of custom loaders",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,15 @@
   "dependencies": {
     "canvas": "^1.6.5",
     "gifencoder": "^1.0.6"
+  },
+  "keywords":[
+      "gif",
+      "loader",
+      "canvas",
+      "circular loader"
+  ],
+  "repository":{
+      "type":"git",
+      "url":"https://github.com/Anwesh43/custom-loaders-gif"
   }
 }
